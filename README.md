@@ -1,5 +1,6 @@
-# subsense
-A general-purpose sentiment mapper via VADER's SentimentIntensityAnalyzer.
+# subsense: Sentiment Mapping for Subtitles
+**subsense** is a versatile tool for analyzing sentiment in `.srt` subtitle files using the VADER SentimentIntensityAnalyzer. This provides insights into the emotional intensity of text across time, enabling scene-level sentiment mapping.
 
-You'll need nltk, pysrt, and matplotlib: 
+# requirements
+Ensure the following libraries are installed: 
 `!pip install nltk pysrt matplotlib`
