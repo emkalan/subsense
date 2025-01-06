@@ -8,4 +8,4 @@ Ensure the following libraries are installed:
 # usage
 Ensure that the .srt file to be analyzed is in the same directory as the subsense.py file.
 
-See readme for more details on usage, TODOs, and the future of subsense as a whole.
+See comments in source for more details on usage, TODOs, and the future of subsense as a whole.
